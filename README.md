@@ -1,11 +1,11 @@
-### Ruby on Rails | React.js | Spree Developer | 🏆 𝐓𝐨𝐩 𝟑% 𝐨𝐧 𝐔𝐩𝐰𝐨𝐫𝐤 ⭐⭐⭐⭐⭐
+### Ruby on Rails | React.js | Next.js Developer | 🏆 𝐓𝐨𝐩 𝟑% 𝐨𝐧 𝐔𝐩𝐰𝐨𝐫𝐤 ⭐⭐⭐⭐⭐
 
-With over 7 years of expertise in Ruby on Rails Developer, I am passionate about taking on new and challenging projects where I can apply my skills and gain valuable experience. As a full-stack developer, I possess strong proficiency in the front-end and back-end aspects of development. I am dedicated to helping bring your innovative ideas to life and your projects to the next level.
+I am a seasoned Full-stack Developer with over 8 years of expertise in Ruby on Rails, ReactJS and Next.js. Within the realm of technology, my expertise lies in crafting robust solutions, with proficiency spanning Ruby on Rails, Python, ReactJS, NextJS, and React Native. My commitment to continuous learning ensures that I stay at the forefront of industry advancements, ready to evolve with the unique demands of each project.
 
-I have worked on developing scalable front-end applications using React, Redux, Hooks, NextJS and other related technologies. I have a strong understanding of the React library and can develop complex UI components with ease. My proficiency extends to integrating back-end APIs with React applications, as well as working with popular front-end libraries and frameworks like Bootstrap, Material-UI, TailwindCSS and Styled Components.
+Approaching my work with the precision and dedication of an entrepreneur, I seek not only to meet project objectives but to exceed expectations. Collaboration and innovation are the pillars of my professional ethos, and I am enthusiastic about contributing my skills to projects that demand creativity, expertise, and a keen business acumen.
 
-I can develop full-stack applications that are reliable, scalable, and comprehensive. My commitment to industry-leading best practices and agile methodologies means that your project will be delivered with precision, attention to detail, and within budget.
+As I navigate the dynamic landscape of technology, I am excited about the endless possibilities that lie ahead. My journey is a holistic exploration, not just about coding but about creating impactful solutions and making a lasting imprint on the digital landscape. I invite you to join me on this journey of growth, collaboration, and transformation.
 
-I am glad to discuss how my abilities and expertise can benefit your project if you are looking for a devoted and experienced full-stack developer who can bring your vision to life. Please contact me for an interview; I am intrigued about the idea of collaborating to generate amazing solutions.
+I am glad to discuss how my abilities and expertise can benefit your project. If you are looking for a devoted and experienced full-stack developer who can bring your vision to life, please contact me in Upwork invitation for an interview. I am intrigued about the idea of collaborating to generate amazing solutions.
 
 Checkout my [Upwork Profile](https://www.upwork.com/freelancers/~010a9994cd3a0af9c8)
