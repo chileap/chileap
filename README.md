@@ -9,3 +9,6 @@ As I navigate the dynamic landscape of technology, I am excited about the endles
 I am glad to discuss how my abilities and expertise can benefit your project. If you are looking for a devoted and experienced full-stack developer who can bring your vision to life, please contact me in Upwork invitation for an interview. I am intrigued about the idea of collaborating to generate amazing solutions.
 
 Checkout my [Upwork Profile](https://www.upwork.com/freelancers/~010a9994cd3a0af9c8)
+
+![Chileap's GitHub stats](https://github-readme-stats.vercel.app/api?username=chileap&show=reviews,prs_merged,prs_merged_percentage&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chileap&layout=normal)
